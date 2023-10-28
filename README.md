@@ -1,7 +1,6 @@
-# Motor-LED-_NOR-GATE-ILLUSTRATION
+# Arduino Motion Sensor LED Control
 This Repository illustrates a working system that can be implemeted using the NOR-GATE . The working results are elaborated when the LED - and Motor are turned up and down.
 Below Shows the Hardware version and Software Version
-# Arduino Motion Sensor LED Control
 ![image](https://github.com/RoggersAnguzu/Motor-LED-_NOR-GATE-ILLUSTRATION/assets/141458053/25c55159-2295-416a-8684-58a5b5b2635f)
 
 ![image](https://github.com/RoggersAnguzu/Motor-LED-_NOR-GATE-ILLUSTRATION/assets/141458053/7a66fb86-cc1f-48af-a5b3-969e4f4f54bc)
